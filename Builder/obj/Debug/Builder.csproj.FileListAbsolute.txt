@@ -1,0 +1,5 @@
+D:\TestProjects\DesignPatterns\Creational\Builder\Builder\bin\Debug\Builder.dll
+D:\TestProjects\DesignPatterns\Creational\Builder\Builder\bin\Debug\Builder.pdb
+D:\TestProjects\DesignPatterns\Creational\Builder\Builder\obj\Debug\Builder.dll
+D:\TestProjects\DesignPatterns\Creational\Builder\Builder\obj\Debug\Builder.pdb
+D:\TestProjects\DesignPatterns\Creational\Builder\Builder\obj\Debug\Builder.csprojResolveAssemblyReference.cache

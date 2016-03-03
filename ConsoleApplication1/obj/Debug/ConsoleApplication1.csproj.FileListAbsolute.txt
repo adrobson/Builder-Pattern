@@ -1,0 +1,8 @@
+D:\TestProjects\DesignPatterns\Creational\Builder\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\TestProjects\DesignPatterns\Creational\Builder\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\TestProjects\DesignPatterns\Creational\Builder\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\TestProjects\DesignPatterns\Creational\Builder\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\TestProjects\DesignPatterns\Creational\Builder\ConsoleApplication1\bin\Debug\Builder.dll
+D:\TestProjects\DesignPatterns\Creational\Builder\ConsoleApplication1\bin\Debug\Builder.pdb
+D:\TestProjects\DesignPatterns\Creational\Builder\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\TestProjects\DesignPatterns\Creational\Builder\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
